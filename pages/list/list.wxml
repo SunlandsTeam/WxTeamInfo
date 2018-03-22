@@ -1,0 +1,7 @@
+<view class="container team-list">
+  <div class="team-item" wx:for="{{members}}" wx:for-item="member" wx:key="index">
+    <text>{{member.name}}</text>
+    <text>{{member.job}}</text>
+  </div>
+  <div>虚位以待...</div> 
+</view>

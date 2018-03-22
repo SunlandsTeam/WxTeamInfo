@@ -1,0 +1,13 @@
+.container {
+  overflow: scroll;
+}
+
+.log-list {
+  display: flex;
+  flex-direction: column;
+  padding: 40rpx;
+  color: red;
+}
+.log-item {
+  margin: 10rpx;
+}

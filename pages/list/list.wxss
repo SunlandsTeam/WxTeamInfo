@@ -1,0 +1,10 @@
+.team-list {
+  color: white;
+  font-size: 14px;
+}
+
+.team-item {
+  width: 300rpx;
+  display: flex;
+  justify-content: space-between;
+}

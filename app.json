@@ -1,0 +1,14 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/list/list",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "backgroundColor": "#000",    
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "武汉商德产研中心",
+    "navigationBarTextStyle":"white"
+  }
+}
